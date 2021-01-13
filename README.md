@@ -17,6 +17,7 @@ The directory follows the pattern
 # This code can do both detect and crop of an object that is being determined 
 
 ## crop funtion
+----------------------------
 ``` crop = image[y:y + h, x:x + w] ```
 ----------------------------
 
