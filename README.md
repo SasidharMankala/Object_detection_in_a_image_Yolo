@@ -19,7 +19,7 @@ The directory follows the pattern
 ## crop funtion
 ``` crop = image[y:y + h, x:x + w] ```
 
-## Showing the output as desired commenting the cropped code line will show an object detection and commenting the image code line will show the cropped image of detected object
+## Showing the output as desired, commenting the cropped code line will show an object detection and commenting the image code line will show the cropped image of detected object
 
 
 ----------------------------
