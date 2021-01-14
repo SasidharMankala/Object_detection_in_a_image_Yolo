@@ -1,12 +1,12 @@
 # Yolo_img
 
-In this project the function is to detect an object in a given image.
+In this project the objective is to detect objects in a given image and store in a folder.
 
 The directory follows the pattern
 
 ```
 ## images
-   ###Cropped_images(here the cropped images will be saved)
+   ###Cropped_images(In this folder the cropped images will be saved)
    -images needed to be examine
 ## yolo-coco
    -yolov3-320.cfg
