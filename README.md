@@ -21,18 +21,18 @@ The directory follows the pattern
 ----------------------------
 
 
-``` crop = image[y:y + h, x:x + w] ```
+``` crop = image[y-5: y+h+5 , x-5: x+w+5] ```
 
 
 ----------------------------
 
-## Showing the output as desired, commenting the cropped code line will show an object detection and commenting the image code line will show the cropped image of detected object
+## This two lines make the last part of the code possible to save the cropped image and showing the image given as input with some border around the objects
 
 
 ----------------------------
 
 
-``` cv2.imshow("CroppedImage", crop) ```
+``` cv2.imwrite(image_path,crop) ```
 
 ```cv2.imshow("Image", image) ```
 
