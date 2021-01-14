@@ -45,4 +45,5 @@ The directory follows the pattern
  
  ---------------------------
  
+ In this command the ```person.jpg``` is located in ```images``` folder. Before entering the command make sure the image you wanted to detect is located in the folder named ```images```
  
