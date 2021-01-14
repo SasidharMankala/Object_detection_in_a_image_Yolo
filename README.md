@@ -6,6 +6,7 @@ The directory follows the pattern
 
 ```
 ## images
+   ###Cropped_images(here the cropped images will be saved)
    -images needed to be examine
 ## yolo-coco
    -yolov3-320.cfg
