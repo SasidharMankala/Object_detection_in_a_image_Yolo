@@ -39,11 +39,12 @@ The directory follows the pattern
 ```cv2.imshow("Image", image) ```
 
 ----------------------------
+
  To make this code run you should open terminal or powershell open in the same folder where the ```main.py``` file located and enter the command as
  
  ---------------------------
  
- ``` python main.py --image images/person.jpg
+ ``` python main.py --image images/person.jpg ```
  
  ---------------------------
  
