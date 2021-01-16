@@ -43,7 +43,7 @@ The directory follows the pattern
  
  ---------------------------
  
- ``` python main.py --image images/person.jpg --yolo yolo-coco ```
+ ``` python main.py --image images/person.jpg
  
  ---------------------------
  
